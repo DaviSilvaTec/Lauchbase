@@ -9,7 +9,7 @@ AULA - Comentários Strings e Numbers
 
 function aulas_introducao(){
 
-    //Criar um programa que calula a média 
+    //Criar um programa que calcula a média 
     // das Notas dos Alunos e envia
     // mensagem do calculo da média
     
@@ -94,7 +94,7 @@ function aulas_introducao(){
     
     #################################################################### */
     
-    /** Maoir, Menor **/ 
+    /** Maior, Menor **/ 
     
     console.log(5>4); //true
     console.log(5<4); //false
@@ -329,11 +329,12 @@ function aulas_introducao(){
     
     Quando chamamos uma função que gera um dado que iremos usar fora dela
     temos duas opções para externar este dado, uma seria armazená-lo em uma
-    variável "Global" que será visível para todos os escopos, ou retornar esse
-    valor como saída da função com o comando "return", assim podemos chamar
-    a função e utilizar o valor que ela retornar.
+    variável declarada no escopo pai, ou retornar esse valor como saída da 
+    função com o comando "return", assim podemos chamar a função e utilizar
+    o valor que ela retornar.  
     
-    Sobre o uso do "return" é preciso salientar que este dentro de uma Função
+    
+    Sobre o uso do "return" é preciso salientar que este, dentro de uma Função,
     serve também como um ponto de saída, ou seja, quando esta instrução for 
     executada ela irá finalizar a execução desta função, retornando o valor 
     informado para o processo anterior, sendo assim é preciso atenção em que
