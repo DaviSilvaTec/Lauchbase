@@ -2,9 +2,7 @@ Este repositório deve servir a três propósitos sendo o primeiro o de armazena
 
 Sendo assim deve ser atentado os seguintes padrões. 
 
-- Comentários, os comentários e enunciados do curso irão usar comentários normais como “ //” ou "/* */"  para as linhas e  “/* */” para blocos, os comentários e anotações pessoais usarão comentários de bloco acrecidos de um asterisco “/** **/”.
-
-- Comentários, os comentários pessoais e anotações estaão comentados como "/**
+- Comentários: os comentários e enunciados do curso irão usar comentários normais como “//” ou "/*  */" , os comentários e anotações pessoais usarão comentários de bloco acrecidos de um asterisco, como “/** **/”.
 
 - Os códigos referentes a cada aula ou exercício será escrito dentro de uma função específica de forma a cada exercício ou conteúdo de aula poder ser executado separadamente dentro do mesmo arquivo de código.
 
