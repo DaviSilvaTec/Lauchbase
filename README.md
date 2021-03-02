@@ -4,5 +4,7 @@ Sendo assim deve ser atentado os seguintes padrões.
 
 - Comentários: os comentários e enunciados do curso irão usar comentários normais como “//” ou "/*  */" , os comentários e anotações pessoais usarão comentários de bloco acrecidos de um asterisco, como “/** **/”.
 
-- Os códigos referentes a cada aula ou exercício será escrito dentro de uma função específica de forma a cada exercício ou conteúdo de aula poder ser executado separadamente dentro do mesmo arquivo de código.
+- Os códigos referentes a cada aula ou exercício será escrito dentro de uma função específica de forma a cada exercício ou conteúdo de aula poder ser executado separadamente dentro do mesmo arquivo de código, isso para JavaScript e exercicios diversos dentro de uma mesma Aula ou tema que possa ser agrupado em uma único arquivo de código fonte.
+
+
 
